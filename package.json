@@ -1,0 +1,15 @@
+{
+  "name": "mineflayer-aternos-bot",
+  "version": "1.0.0",
+  "description": "Bot Mineflayer anti-AFK pour serveur Aternos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.23.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
